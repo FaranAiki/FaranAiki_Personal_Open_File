@@ -1,0 +1,111 @@
+(C) Copyright 2021 - ... Muhammad Faran Aiki
+(C) Copyright ... ........
+
+Faran License Version 1.0.
+Made by Muhammad Faran Aiki in 19/07/2021 W.I.B. (19-07-2021 in Indonesia) and first released in ....
+
+License Identity
+	Derived name:	...
+	Author:			...
+	
+	Derived from:	...
+	Author:			...
+	
+Program Identity
+	Owner:			...
+	
+	Name:			...
+	Date:			...
+	
+	Type:			...
+
+Preamble
+	You may copy, distribute, and redistribute this license without asking permission;
+		however, you need to fill the format of the license correctly if the program is different,
+		meaning you must change the program identity.
+	
+	You may edit, modify, change, or remove some parts of this license
+		if the owner of this license allows,
+		and the modified version must follow the standard formatting.
+	
+	You cannot fake, scam, or fraud
+		the license identity or the program identity.
+	
+	There is an exception for the second point which can be seen in the first point;
+		you do not need permission to change the program identity.
+		
+	If you feel confused, read the definition;
+		this is not rocket-science or reverse-engineering.
+
+Formatting
+	The formatting itself is not ambiguous, and it is not permitted to be ambiguous.
+	
+	Formatting is on top of this license, labeled as "License Identity" and "Program Identity".
+
+Affirmation
+	Work that uses this license is not considered free work or open-source work.
+	
+	It is not a black and white situation;
+		therefore, the work is not considered as a closed-source work; rather,
+		the work is considered as a "LFNSPC" work which is an acronym to
+		Literally Free, No Selling, Public Code.
+
+Definition
+	"License"		is defined as this file that contains definition, terms and conditions, and some data;
+	"Work"			is defined as program, artwork (such as drawing and music), object, file, or document that the owner made;
+	"Derived Work"	is defined as work whose heavily inspired near plagiarism, distributed, use some parts of, reverse-engineered, or on the effect of the work that uses this license;
+	
+	"Subject"		is defined as the person, developer, artist, community, company, entity, subject, object, robot, data, or intelligence;
+	"Owner"			is defined as the subject that is associated with making the work and owns some or all the code;
+	"User"			is defined as the subject that uses the work whose owner made, some of it or all of it;
+	
+	"Source"		is defined as the human-readable file from the source code, source file, of the work or the derived work;
+	
+	A singular pronoun, subject, or object can be interpreted as a plural one, but not vice versa. Even though there are some people that can read "binary" code, it is not considered as the source code.
+		the owner is the same as owners;
+		users is not the same as the user.
+
+Terms and Conditions
+	0. Freedom and Liberal
+		This license does not support the idea of free, in terms of free speech, because
+			free does not necessarily mean good;
+			hence, the work that uses this program is not called a free program neither or open-source.
+			
+		The exact reason why this license prohibits such a freedom is because
+			it can contradict the point of freedom itself.
+			
+		This license wants to provide a good outcome and defined behavior,
+			whereas freedom can be considered undefined behavior.
+	1. Responsibility
+		This license and the work associated with this license offer no warranty.
+		The responsibility is up to the user.
+		
+		This work may,
+			destroys your computer, summons a black hole, rewrite Master Boot Record,
+			tracks your Internet Protocol address, kills someone else,
+			or others harmful things.
+			
+		In contrast, the owner must specify what the work will do and will not
+			consciously; if somehow the owner did not, try search for the
+			source code.
+	2. Distributing
+		The owner cannot sell the work.
+		If one sells, it is a scam, since the point of a free program, specifically a gratis one, is missed.
+		
+		The user cannot and it is prohibited to sell the derived work or the work.
+		If one sells, it violates the license.
+		
+		This license is considered a copyleft license, meaning
+			every derived work must contain this license.
+	3. Source
+		The work must contain the source itself, but must not be included in the package with an exception
+			of publishing the link to the source.
+	4. Reverse Engineering
+		It is allowed to reverse-engineer this program without asking any permission.
+		
+		Note, the result of the reverse-engineered program is considered derived work;
+			therefore, this license applies to that program.
+	5. License In-Development
+		You may notice that this license is in fact still on development;
+			therefore, any changes will always be applied to this license,
+			thus making every software listed here follows.
